@@ -36,7 +36,7 @@ nav{
     background-color: #fe142f;
 }
 #menu{
-justify-content: space-between;
+    justify-content: space-between;
 }
 .list{
     width: 100%;
@@ -61,10 +61,13 @@ justify-content: space-between;
     border-radius: 100px;
     background: #30b441;
 }
+.space{
+    padding-left: 20px;
+    padding-right: 20px;
+}
 .list li{
     padding: 20px;
     border-bottom: #afa6b4 solid 0.5px;
-    
     align-items: center;
     display: flex;
 }
@@ -79,7 +82,7 @@ justify-content: space-between;
     border-radius: 10px;
 }
 #sublist{
-    padding-left: 40px;
+    padding-left: 30px;
 }
 
 footer{
